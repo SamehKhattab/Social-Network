@@ -13,7 +13,7 @@ Social Network (Twitter Clone) based on Django1.8 - Python 2.7
 7. Active search that shows users and tweets contain the searching keyword.
 8. Users can see recommended users to follow on the timeline. 
 9. Editable User-profile contains basic information and a profile picture.
-10. Registration and login forms. 
+10. Registration and login forms.  
 
 ## Getting Started
 
